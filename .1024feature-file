@@ -1,0 +1,9 @@
+fileChangeLogs:
+  - hello.c
+  - tests/test_model.rb
+  - src/auth/login.py
+  - tests/src/auth/login.py
+  - temp/auth/login.py
+  - temp/auth/login.rb
+  - temp/auth/signup.rb
+  - app/controllers/users_controller.rb
