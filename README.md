@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Blog App
+# Blog App => test for ai
 
 > This app is a simple app which mimics a real world blog website where users can post comments and see the comments made by other users.
 
